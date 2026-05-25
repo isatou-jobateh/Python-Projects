@@ -1,0 +1,17 @@
+#Text Analyzer
+
+words = input()
+v_count = 0
+c_count = 0
+characters = 0
+characters = len(words)
+word_count= len(words.split())
+for letter in words:
+	if letter in "aeiou":
+	   v_count = v_count +1
+	   
+	else:
+	   c_count = c_count +1
+print("vowel", v_count, "consonant", c_count)
+print("word_count", "= ", word_count)
+print("characters","=" , characters )
