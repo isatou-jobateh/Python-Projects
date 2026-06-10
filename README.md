@@ -8,7 +8,7 @@ This repository contains my Python learning journey, including:
 
 - mini projects
 
-_ file handling
+• file handling
 
 - beginner automation
 
