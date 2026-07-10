@@ -11,7 +11,7 @@ for letter in words:
 	if letter in "aeiou":
 	   v_count = v_count +1
 	   
-	else:
+else:
 	   c_count = c_count +1
 print("vowel", v_count, "consonant", c_count)
 print("word_count", "= ", word_count)
