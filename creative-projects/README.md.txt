@@ -11,3 +11,15 @@ Projects I created by combining Python concepts and my own ideas.
   - Dictionaries
   - Loops
   - User input
+  - Conditions 
+  - Variables
+  - Scoring
+
+### Password Generator
+- Uses:
+  - Functions
+  - User input 
+  - Loop
+  - Module(random)
+  - string
+  
